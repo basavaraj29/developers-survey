@@ -25,7 +25,7 @@ For this project, I was interested in exploring a few trends among developers, i
 The is one notebook file `Developer Data Analysis.ipynb`. If you wish to execute this, please provide the path for input file in cell 2.
 
 ## Results<a name="results"></a>
-The main findings of this study can be found [here](). The `Developer Data Analysis.ipynb` file has cells explaining  answers/trends for each of the questions above.
+The main findings of this study can be found [here](https://medium.com/@basavaraj_42993/everything-you-need-to-know-about-developers-pay-preferences-and-opportunities-55ffae6bc955). The `Developer Data Analysis.ipynb` file has cells explaining  answers/trends for each of the questions above.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Credits to Stack Overflow for conducting a survey and releasing the data publicly. You can find the Licensing for the data and other descriptive information [here](https://insights.stackoverflow.com/survey).
